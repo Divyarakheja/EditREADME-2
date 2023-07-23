@@ -8,6 +8,8 @@ To run the code in this repository, you need the following dependencies:
 - TensorFlow
 - Keras
 - NumPy
+- scipy
+- urllib.request
 - Matplotlib
 - scikit-learn
 
