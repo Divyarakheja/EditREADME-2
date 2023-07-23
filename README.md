@@ -71,6 +71,9 @@ The following results are obtained from the implementation:
 
 ![unnamed](https://github.com/Divyarakheja/EditREADME-2/assets/132153971/58682c69-2970-42f5-9cb0-711bbdba71b3)
 
+## Latent Space Visualization
+
+This repository contains code to visualize the latent space of a Variational Autoencoder (VAE) using Principal Component Analysis (PCA) for dimensionality reduction and Matplotlib for 2D plotting.
 
 ## Running the Code
 To run the code, follow these steps:
